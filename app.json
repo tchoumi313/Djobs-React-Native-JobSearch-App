@@ -5,6 +5,13 @@
       "bundler": "metro"
     },
     "name": "Djobs",
-    "slug": "Djobs"
+    "slug": "Djobs",
+    "plugins": [
+      "expo-router"
+    ],
+    "updates": {
+      "useClassicUpdates":true
+    }
+    
   }
 }
